@@ -1,0 +1,14 @@
+{
+  "name": "entrega1",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Alzate jalzate0128@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
